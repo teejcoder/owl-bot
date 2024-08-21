@@ -56,6 +56,7 @@ The project structure is as follows:
 
 The application uses custom fonts and styles defined in the `App.css` file. The custom font is loaded from the `/public/fonts` directory.
 
+## Tests
 
 To run tests for the Bellroy Bot project, follow these steps:
 
