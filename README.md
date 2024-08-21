@@ -10,7 +10,7 @@ bellroy-bot simulates moving a robot on a grid. The robot moves forwards in the 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Styling](#styling)
-- [Contributing](#contributing)
+- [Testing](#testing)
 - [License](#license)
 
 ## Installation
