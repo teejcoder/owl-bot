@@ -1,0 +1,32 @@
+/* Global styles */
+@font-face {
+  font-family: 'GTUltraUltra';
+  src: url('../public/fonts/GT-Ultra-Standard-Ultra-DK9CrWz0.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTUltraReg';
+  src: url('../public/fonts/GT-Ultra-Standard-Regular-C_MQ3v_2.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTUltraLight';
+  src: url('../public/fonts/GT-Ultra-Standard-Light-C2GXzpoN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTUltraBold';
+  src: url('../public/fonts/GT-Ultra-Standard-Bold-CCwFnZiM.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, html {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://bellroy-cms-images.imgix.net/1259/background-texture-repeat.jpg?auto=format&fit=max');background-image: url('https://bellroy-cms-images.imgix.net/1259/background-texture-repeat.jpg?auto=format&fit=max');
+}

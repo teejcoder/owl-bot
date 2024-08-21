@@ -1,0 +1,109 @@
+/* Component Styles */
+
+/* Main App container */
+.App {
+  text-align: center;
+  font-family: GTUltraReg, Roboto, Lato, sans-serif;
+}
+
+/* Grid container */
+.grid {
+  display: inline-block;
+  margin: 20px 0;
+  background: rgb(247,247,247);
+  box-shadow: 0 27px 15px -17px rgba(0, 0, 0, .3), 0 2px 4px rgba(0, 0, 0, .3);
+}
+
+/* Row within the grid */
+.row {
+  display: flex;
+}
+
+/* Individual cell within the grid */
+.cell {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #9b9b9b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Robot logo */
+.robot-logo {
+  height: 35px;
+}
+
+/* Controls container */
+.controls {
+  margin-top: 20px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Button styles */
+button {
+  border: 0;
+  border-radius: 4px;
+  background-color: #e15a1d;
+  color: #fff;
+  text-transform: uppercase;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 260px;
+  height: 42px;
+  line-height: 42px;
+  font-weight: 800;
+  font-size: 16px;
+  letter-spacing: 4px;
+  outline: none;
+  cursor: pointer;
+  box-shadow: 0 27px 15px -17px rgba(0, 0, 0, .3), 0 2px 4px rgba(0, 0, 0, .3);
+  transition: background-color .2s ease, box-shadow .2s ease;
+  margin-bottom: 10px;
+} button:hover {
+  background-color: #333;
+}
+
+
+/* Accent color for elements */
+.title {
+  color: #333333;
+  font-family: GTUltraUltra, Roboto, Lato, sans-serif;
+  font-size: 4em;
+  font-weight: 900;
+  margin-bottom: 1rem;
+}
+
+.heading {
+  margin: 2em;
+}
+
+span{
+  color: #666666;
+  font-family: GTUltraLight, Lato, sans-serif;
+  font-size: 21px;
+  color: #e15a1d;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em 2em;
+  border-bottom: 2px solid #dbdbdb;
+  background: #efeae5;
+}
+.socials {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} 
+
+.logo {
+  height: 40px;
+}
