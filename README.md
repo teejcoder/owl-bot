@@ -1,8 +1,8 @@
-# Bellroy Bot
+# Owl Bot
 
-bellroy-bot simulates moving a robot on a grid. The robot moves forwards in the direction it is facing, and rotates in place to face any direction. 
+owl-bot simulates moving a robot on a grid. The robot moves forwards in the direction it is facing, and rotates in place to face any direction. 
 
-- [Click this link to visit bellroy-bot](https://react-owlbot.netlify.app/)
+- [Click this link to visit owl-bot](https://react-owlbot.netlify.app/)
 
 ## Table of Contents
 
