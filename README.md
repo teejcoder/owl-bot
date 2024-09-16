@@ -2,7 +2,7 @@
 
 bellroy-bot simulates moving a robot on a grid. The robot moves forwards in the direction it is facing, and rotates in place to face any direction. 
 
-- [Click this link to visit bellroy-bot](https://bellroybot.netlify.app/)
+- [Click this link to visit bellroy-bot](https://react-owlbot.netlify.app/)
 
 ## Table of Contents
 
@@ -14,12 +14,12 @@ bellroy-bot simulates moving a robot on a grid. The robot moves forwards in the 
 
 ## Installation
 
-To get started with bellroy-bot, follow these steps:
+To get started with owl-bot, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/teejcoder/tristanxbellroy.git
-    cd bellroy-bot
+    git clone https://github.com/teejcoder/owl-bot.git
+    cd owl-bot
     ```
 
 2. **Install dependencies**:
@@ -32,7 +32,7 @@ To get started with bellroy-bot, follow these steps:
     npm start
     ```
 
-The application will be available at `https://bellroybot.netlify.app/`.
+The application will be available at `https://react-owlbot.netlify.app/`.
 
 ## Usage
 

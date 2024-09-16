@@ -53,8 +53,8 @@ function App() {
     <div className="App">
       <Navbar />
       <div className='heading'>
-        <h1 className="title">bellroy-bot</h1>
-        <span className="span">bellroy-bot moves forward in the direction it's facing.</span>
+        <h1 className="title">owl-bot</h1>
+        <span className="span">owl-bot moves forward in the direction it's facing.</span>
       </div>
       <Robot x={robot.x} y={robot.y} direction={robot.direction} sizeOfGrid={sizeOfGrid} getRotation={getRotation} />
       <ControlPanel moveForward={moveForward} rotateLeft={rotateLeft} rotateRight={rotateRight} />
